@@ -1,0 +1,81 @@
+<svg id="e1VGe7yOhtY1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 640 480" shape-rendering="geometricPrecision" text-rendering="geometricPrecision">
+<style>
+<![CDATA[
+#e1VGe7yOhtY2_ts {
+    animation: e1VGe7yOhtY2_ts__ts 2000ms linear 1 normal forwards}
+@keyframes e1VGe7yOhtY2_ts__ts { 
+    0% {
+        transform: translate(317px,215.695379px); 
+        scale(0,0);
+        animation-timing-function: cubic-bezier(0.89,0,0.24,0.985);
+        } 
+    40% {
+        transform: translate(317px,215.695379px) 
+        scale(-0.890644,-0.884424)
+        } 
+    100% {
+        transform: translate(317px,215.695379px) 
+        scale(-0.890644,-0.884424)
+        }
+} 
+
+#e1VGe7yOhtY3_ts {
+    animation: e1VGe7yOhtY3_ts__ts 2000ms linear 1 normal forwards
+    }
+    
+    @keyframes e1VGe7yOhtY3_ts__ts { 
+        0% {
+            transform: translate(290.995733px,287.476227px) 
+            scale(0,0)
+            } 
+        20% {
+            transform: translate(290.995733px,287.476227px) 
+            scale(0,0);animation-timing-function: cubic-bezier(0.84,0.015,0.24,0.985)
+            } 
+        50% {
+            transform: translate(290.995733px,287.476227px) 
+            scale(1,0.947995)
+            } 
+        100% {
+            transform: translate(290.995733px,287.476227px) 
+            scale(1,0.947995)
+            }
+        } 
+    
+    #e1VGe7yOhtY4_ts {
+        animation: e1VGe7yOhtY4_ts__ts 2000ms linear 1 normal forwards
+        }
+        
+    @keyframes e1VGe7yOhtY4_ts__ts { 
+        0% {
+            transform: translate(250px,240px) 
+            scale(0,0)} 
+        45% {
+            transform: translate(250px,240px) 
+            scale(0,0);
+            animation-timing-function: cubic-bezier(0.92,0,0.255,0.995)
+            } 
+        75% {
+            transform: translate(250px,240px) 
+            scale(1,1)
+            } 
+        100% {
+            transform: translate(250px,240px) 
+            scale(1,1)}
+            }
+            ]]>
+            
+            </style>
+            
+            <g id="e1VGe7yOhtY2_ts" transform="translate(317,215.695379) scale(0,0)">
+            <ellipse id="e1VGe7yOhtY2" rx="94.403364" ry="91.747929" transform="translate(0,-0.000001)" fill="rgb(255,221,55)" stroke="none" stroke-width="0"/>
+            </g>
+            
+            <g id="e1VGe7yOhtY3_ts" transform="translate(290.995733,287.476227) scale(0,0)">
+            <path id="e1VGe7yOhtY3" d="M244.134612,188.060304C244.134612,177.12763,255.019777,167.162972,264.481725,179.135301L389.422146,326.323187C402.051868,341.955026,389.422146,351.829413,374.591396,351.829413L260.028899,351.833202C258.27473,351.829413,244.134612,342.66047,244.134612,330.896221L243.962674,188.060304L244.134612,188.060304Z" transform="translate(-278.962674,-286.352811)" fill="rgb(255,42,42)" stroke="none" stroke-width="0"/>
+            </g>
+            
+            <g id="e1VGe7yOhtY4_ts" transform="translate(255.135135,241.386608) scale(0,0)">
+            <rect id="e1VGe7yOhtY4" width="70" height="215" rx="20" ry="20" transform="translate(-34.139402,-106.835298)" fill="rgb(21,86,216)" stroke="none" stroke-width="0"/>
+            </g>
+            </svg>
